@@ -1,0 +1,19 @@
+# Entorno virtual
+venv/
+env/
+.env
+
+# Archivos de caché y compilados de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos temporales generados por el script
+temp_calendar.html
+
+# Imágenes generadas (opcional, para evitar subir los calendarios generados)
+*.png
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
